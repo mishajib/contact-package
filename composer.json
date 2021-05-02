@@ -1,0 +1,19 @@
+{
+    "name": "mishajib/contact",
+    "description": "This will send email to admin and save query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mishajib",
+            "email": "mishajib222@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mishajib\\Contact\\": "src/"
+        }
+    }
+}
